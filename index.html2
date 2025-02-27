@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+   
+  <head>
+    <title>Posthuman Lab</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/style.css2">  
+  </head>
+  <body>
+    <div class="banner">
+      <div class="container">
+        <h1>Your first UI kit</h1>
+        <h2>Let's learn how to code</h2>
+         <a href="#" class="btn-blue">Start now!</a>
+       </div>
+    </div>
+    <div class="container">
+    <h1>Your first UI kit</h1>
+    <h2>1. Container</h2>
+    <p>Let's code components in CSS.</p>
+    <h2>2.Avatar</h2>
+    <img class= "avatar"src="C:\Users\ghdk2\OneDrive\Bureau\my-website\images\Sébastien_Cipolla.jpg" alt="Sebastien Cipolla">
+    <h2>3. Button</h2>
+    <a href="#" class="btn-blue">Submit</a>
+
+    <h2>4. Card</h2>
+    <Div class="card">
+      <img  src=" images/C:\Users\ghdk2\OneDrive\Bureau\my-website\images\Capture d'écran 2025-02-27 213754.png">
+      <h3>Posthuman universe</h3>
+        <a href="#" class="btn-blue">Click right here!</a>
+</Div>
+
+  </body>
+</html>
